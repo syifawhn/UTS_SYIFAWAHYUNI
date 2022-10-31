@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_Syifa</string>
+    <string-array name="JalurPendaftaran">
+        <item>Jalur Tanpa Tes</item>
+        <item>Tes Tertulis</item>
+        <item>Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
+</resources>
